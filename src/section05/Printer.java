@@ -2,6 +2,8 @@ package section05;
 
 @FunctionalInterface
 public interface Printer {
+    int MAX_VALUE = 255;
+
     void print(String message);
 
     default void welcome() {
