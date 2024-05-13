@@ -2,6 +2,7 @@ package section06;
 
 import java.util.Arrays;
 import java.util.Comparator;
+import java.util.List;
 
 public class UseComparator {
     public static void main(String[] args) {
